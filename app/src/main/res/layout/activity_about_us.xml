@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".About_us">
+
+    <ImageView
+        android:id="@+id/backgroundImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/backgroundx" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="#75FFFFFF"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp">
+
+
+        <ImageButton
+            android:id="@+id/back_1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/baseline_arrow_back_24"
+            android:clickable="true"
+            android:contentDescription="@string/content_description" />
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="50dp"
+            android:gravity="center"
+            android:text="About Us"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/home"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="12dp"
+            android:background="@drawable/baseline_home_24_black"
+            android:clickable="true"
+            android:focusable="true"
+            android:contentDescription="@string/homenavigation" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/relativeLayout2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp"
+                android:src="@mipmap/logo2" />
+
+            <TextView
+                android:id="@+id/textWelcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="Welcome to Our Salon App!"
+                android:textColor="@color/gold"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textAboutUsWelcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:justificationMode="inter_word"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/about_us_welcome"
+                android:textColor="@color/skin"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textAboutUsExperience"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:justificationMode="inter_word"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/about_us_experience"
+                android:textColor="@color/skin"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textAboutUsServices"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:justificationMode="inter_word"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/about_us_services"
+                android:textColor="@color/skin"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textAboutUsThankYou"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:justificationMode="inter_word"
+                android:lineSpacingMultiplier="1.2"
+                android:text="@string/about_us_thank_you"
+                android:textColor="@color/skin"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

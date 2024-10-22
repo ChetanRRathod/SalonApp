@@ -1,0 +1,234 @@
+<resources>
+    <!--  Data in first layer-->
+    <!-- Home -->
+    <string name="app_name">SalonSculp</string>
+    <string name="button_1">Make Up</string>
+    <string name="button_2">Pre-Bride Service</string>
+    <string name="button_3">Facials &amp; Skin Treatments</string>
+    <string name="button_4">Body Spa &amp; D-tan</string>
+    <string name="button_5">Hair Care &amp; Treatments</string>
+    <string name="button_6">Manicure &amp; Pedicure</string>
+    <string name="button_7">Gallery</string>
+
+
+    <string name="content_description">Button</string>
+
+    <!-- Data in second layer-->
+
+
+    <!--  Make up-->
+
+    <string name="Makeupinfo">At <b>Salonsculp makeup &amp; Spa</b>, we are not just a makeup service; we are your partners in enhancing your natural beauty
+        and  elevating your confidence. Our dedication to excellence and unwavering passion for the art of makeup sets us
+        apart as a leader in the industry.
+    </string>
+
+    <string name="Makeupinfo2"><b>Let\'s Begin Your Bridal Beauty Journey:</b></string>
+
+    <string name="Makeupinfo3">Embark on a bridal beauty experience that\'s as unforgettable as your love story. Contact us today to schedule a
+        consultation and take the first step towards achieving the bridal look you\'ve always dreamed of.
+        Your love story is unique, and your bridal makeup should be too. Trust AMS to create a look that captures the
+        essence of your love and radiates your inner beauty.</string>
+    <string name="Makeupinfo4"><b>Feel free to customize this description to match your bridal makeup services, style, and business values. Make
+        sure  to emphasize the  personalized approach, attention to detail, and the emotional significance of your role in  a  bride\'s special day.</b>
+    </string>
+
+
+    <!-- Pre-bride service  -->
+    <string name="Prebrideinfo"><b>Pre-bride services</b> refer to a range of beauty and grooming treatments and services that
+        are typically offered to brides
+        in the period leading up to their wedding day.
+        These services are designed to help the bride look and feel her best on her special day.
+        Pre-bride services can include various beauty treatments, skincare regimens, and more.</string>
+
+    <string name="Prebrideinfo2"><b>Here are some common pre-bride services packages designed for brides:</b></string>
+
+    <string name="Prebrideinfo3"><b>Silver Pre-Bride Package         Rs.14999*</b></string>
+
+    <string name="Prebrideinfo4">Threading, Body Regular Wax, Cleanup, Bleach, Facial, Manicure, Pedicure, Hair Spa, Body Spa, Mehandi (Hair),
+        Haircut, Hairstyle, Saree Draping, Bridal Makeup.</string>
+
+    <string name="Prebrideinfo5"><b>Gold Pre-Bride Package                    Rs.19999*</b></string>
+    <string name="Prebrideinfo6">Threading, Body Cream Wax, Cleanup, Cheryls Bleach, Cheryls Facial, Manicure, Pedicure, Hair Spa, Body Spa,
+        Body Polishing,
+        Hair Colour, Haircut, Hairstyle, Saree Draping, Bridal Makeup.</string>
+
+    <string name="Prebrideinfo7"><b>Platinum Pre-Bride Package                  Rs.25999*</b></string>
+    <string name="Prebrideinfo8">Threading, Body Roll on Wax, Cleanup, O3+ Bleach, O3+ Facial, Adv. Manicure, Adv. Pedicure,
+        Body Spa with Steam Bath, Body Polishing, Keratin Hair Spa,
+        Fashion Hair Colour, Haircut, Hairstyle, Saree Draping, Haldi Makeup, Bridal Makeup.</string>
+
+    <!--  Facial and Skin treatment  -->
+    <string name="Facialinfo"><b>Facial and skin treatments</b> encompass a wide range of procedures and therapies
+        designed to improve the health,
+        appearance, and condition of the skin.
+</string>
+    <string name="Facialinfo2">ac</string>
+
+
+    <!--  Body spa and D-tan  -->
+    <string name="Bodyspainfo">A <b>Body Spa and D-Tan</b>, commonly referred to as a "spa and tan" experience,
+        typically involve two distinct components: spa treatments focused on relaxation and pampering,
+        and sunbathing or tanning to achieve a bronzed skin tone.
+    </string>
+    <string name="Bodyspainfo2">It\'s important to approach tanning, whether natural or artificial,
+        with caution and to take measures to protect your skin from UV damage. Sunscreen and moderation are key.
+        Skin health and safety should be a top priority when considering any type of tanning.
+    </string>
+
+
+
+
+<!--    Hare care and Treatments-->
+
+    <string name="Hareinfo"><b>Hair care and treatment</b> are vital aspects of self-care, encompassing practices like regular washing, conditioning, and tailored trims. Using suitable products,
+        such as mild shampoos and conditioners, helps maintain a healthy balance without stripping natural oils. Deep conditioning treatments and protective measures with heat protectants
+        and UV-blocking products further contribute to overall hair well-being. Adopting a nutrient-rich diet and minimizing exposure to harsh chemicals are
+        integral components of an effective hair care routine.
+    </string>
+
+    <string name="Hareinfo2">Healthy hair is crucial for both appearance and overall well-being. Regular trims prevent damage, promoting sustained growth,
+        while adequate moisture and protection boost confidence and self-esteem.
+        Incorporating thoughtful hair care practices into your overall self-care routine is essential.
+    </string>
+
+    <!--  Manicure and Pedicure  -->
+    <string name="Manicureinfo">A <b>Manicure</b> is a beauty treatment that focuses on the care and grooming of the fingernails and hands.
+        It involves various steps to clean, shape,
+        and enhance the nails and surrounding skin, resulting in well-groomed and attractive hands.
+    </string>
+
+
+    <string name="Manicureinfo2">A <b>Pedicure</b> is a cosmetic beauty treatment for the feet and toenails.
+        It is a relaxing and pampering experience that not only helps improve the appearance of
+        the feet but also promotes foot health and hygiene.
+    </string>
+
+
+    <!--the data in third layer-->
+
+    <!--Bridal Makeup -->
+    <string name="Bridalinfo"><b>Elegant Bridal Beauty: Your Radiance, Our Expertise</b> </string>
+
+    <string name="Bridalinfo2">Your wedding day is a cherished memory in the making, and at Anvi Makeover &amp; Spa,
+        we are honored to be part of your journey towards a picture-perfect moment.
+        Our bridal makeup services are designed to make you feel like the most beautiful version of yourself as you walk down the aisle.</string>
+
+    <string name="Bridalinfo3"><b>Our Approach: Timeless Elegance, Bespoke Beauty, Flawless
+        Execution, Stress-Free Experience, Radiant Glow:</b></string>
+
+    <string name="Bridalinfo4"><b>Why Choose Us?</b></string>
+
+    <string name="Bridalinfo5">Our passion for creating bridal beauty extends beyond makeup application.
+        We\'re dedicated to making you feel confident, comfortable, and utterly breathtaking on your wedding day.
+        It\'s not just about makeup; it\'s about embracing your moment in the spotlight with grace and poise.
+    </string>
+
+    <string name="Bridalinfo6"><b>Range Starts from: Rs. 8,000/-* to Rs. 15,000/-* (its vary on demand)</b>
+
+    </string>
+
+
+    <!--Engagement &amp; Reception Makeup-->
+    <string name="Engagementinfo"><b>Captivating Engagement &amp; Reception Makeup: Unveiling Your
+        Radiant Love</b>
+    </string>
+
+    <string name="Engagementinfo2">As you step into this beautiful chapter of your love story, let Anvi Makeover &amp;
+        Spa, be your partner in enhancing your natural beauty and infusing your
+        engagement day with enchantment. Our engagement makeup services are
+        meticulously designed to complement your joy and create a look that embodies
+        the love you share.
+    </string>
+
+    <string name="Engagementinfo3"><b>Our Approach: Romantic Glamour, Personalized Elegance, Effortless Radiance,
+        Attention to Detail, Expressive Confidence</b>
+    </string>
+
+    <string name="Engagementinfo4"><b>Why Choose Us?</b></string>
+
+    <string name="Engagementinfo5">We understand that your engagement day is a preview of the journey ahead. Our passion lies
+        in crafting makeup looks that not only enhance your external beauty but also capture the
+        magic of your emotions. We are dedicated to making you feel stunning, empowered, and
+        deeply connected to the moment.</string>
+    <string name="Engagementinfo6"><b>Range Starts from: Rs. 6,000/-* to Rs. 15,000/-* (its vary on demand)</b></string>
+
+
+    <!--Mehendi & Haldi Makeup   -->
+
+    <string name="Mehandiinfo"><b>Mehndi and Haldi</b> are traditional pre-wedding ceremonies in India. These ceremonies involve applying natural ingredients to the bride
+        as part of a ritual and celebration. Makeup services for Mehndi and Haldi ceremonies are designed to enhance the beauty of the
+        bride and groom while keeping the look natural and in line with the cultural significance of these events.
+
+
+    </string>
+
+    <string name="Mehandiinfo2">    Mehndi and Haldi makeup services are an important part of the pre-wedding festivities,
+        helping the bride look their best while respecting the cultural significance of these ceremonies. Makeup artists play a crucial role in
+        ensuring that the makeup complements the overall theme and traditional elements of these events.
+    </string>
+
+    <string name="Mehandiinfo3"><b>Our Approach: Vibrant Grace, Cultural Chic, Sun-kissed Radiance, Detailed Intricacy, Confident Expression</b></string>
+    <string name="Mehandiinfo4"><b>Why Choose Us?</b></string>
+    <string name="Mehandiinfo5"> Choosing a makeup artist or a makeup service provider for Haldi and Mehandi makeup is a significant decision when planning pre-wedding ceremonies.
+        Here are some compelling reasons why clients might choose our services:
+        \n
+        <b>Expertise in Cultural Traditions:,
+        High-Quality Products:, Professional Portfolio, Hygiene and Cleanliness: , Competitive Pricing:, Availability and Flexibility: .</b>
+    </string>
+    <string name="Mehandiinfo6"><b>Range Starts from: Rs. 6,000/-* to Rs. 15,000/-* (its vary on demand)</b>
+    </string>
+
+    <!--Simple Makeup-->
+
+
+    <string name="Simplemakeupinfo"><b>Simple makeup</b> services typically involve creating a natural,
+        everyday look that enhances a person\'s features without appearing too heavy or
+        dramatic. This type of makeup is often used to enhance a person\'s features without drastically altering their appearance.
+        It is typically characterized by its subtlety and the use of light and neutral tones. Simple makeup services are commonly sought for everyday wear,
+        work, casual outings, or occasions where a more natural and low-key look is desired. Here are some key features of simple makeup services:
+    </string>
+
+
+    <string name="Simplemakeupinfo2"><b>Natural Look: , Light Coverage:, Soft Eye Makeup, Light Lip Colors:, Minimal Use of False Eyelashes,
+        Long-Lasting and Comfortable: , Quick Application: .</b>
+    </string>
+
+    <string name="Simplemakeupinfo3"><b>Why Choose Us?</b></string>
+
+    <string name="Simplemakeupinfo4">Our passion for Simple beauty extends beyond makeup application.
+        We\'re dedicated to making you feel confident, comfortable, and utterly breathtaking on normal days.
+        It\'s not just about makeup; it\'s about embracing your moment in the spotlight with grace and poise.</string>
+
+    <string name="Simplemakeupinfo5"><b>Range Starts from: Rs. 1,000/-* to Rs. 5,000/-* (its vary on demand)</b></string>
+
+
+    <string name="about_us_welcome">Our mission is to provide high-quality salon services and make you look and feel your best. We are dedicated to excellence in customer service and continuously strive to improve and innovate.</string>
+
+    <string name="about_us_experience">At our salon, we believe in creating a relaxing and enjoyable experience for our clients. Our skilled and experienced team of stylists and beauty professionals is committed to delivering personalized services tailored to your unique needs.</string>
+
+    <string name="about_us_services">Whether you\'re looking for a trendy haircut, a rejuvenating facial, or a pampering spa treatment, we\'ve got you covered. Our goal is not only to enhance your outer beauty but also to boost your confidence and well-being.</string>
+
+    <string name="about_us_thank_you">Thank you for choosing our salon! We look forward to serving you and providing an exceptional salon experience.</string>
+    <string name="homenavigation">HomeNavigation</string>
+
+
+    <string-array name="treatment_options">
+        <item>Select Service </item>
+        <item>Make Up</item>
+        <item>Pre-Bride service</item>
+        <item>Facial &amp; Skill Treatment </item>
+        <item>Body Spa &amp; D-Tan </item>
+        <item>Hair Care Treatment</item>
+        <item>Manicure &amp; Padicure</item>
+
+
+    </string-array>
+    <string-array name="time_options">
+        <item>Select Time</item>
+        <item>09:00 AM - 12:00 PM</item>
+        <item>12:00 PM - 03:00 PM</item>
+        <item>03:00 PM - 06:00 PM</item>
+
+    </string-array>
+</resources>
